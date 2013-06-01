@@ -1,0 +1,27 @@
+{
+    "name": "filtro-title",
+    "description": "Filtro returns the page title of an URL",
+    "version": "0.0.1",
+    "homepage": "http://github.com/felquis/filtro-title",
+    "author": {
+        "name": "Ofelquis Gimenes",
+        "email": "frgformenton@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/felquis/filtro-title"
+    },
+    "main": "./bin/filtro.js",
+    "engines": {
+        "node": ">= 0.10.x"
+    },
+    "dependencies": {},
+    "keywords": [
+        "url",
+        "facebook",
+        "content",
+        "tags",
+        "html",
+        "filtro"
+    ]
+}
